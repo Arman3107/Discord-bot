@@ -68,4 +68,6 @@ async def stop(ctx):
     voice.stop()
 
 
-client.run('910987503085953074')
+client.run(('OTEwOTg3NTAzMDg1OTUzMDc0.YZa1Og.7aF0Va6NzSBKIj11yRs6a_tv96M')
+
+           
